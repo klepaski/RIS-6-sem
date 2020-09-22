@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  RIS_2_server.cpp
+d:\3\рис\ris_2\ris_2_server\ris_2_server.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\3\рис\ris_2\ris_2_server\ris_2_server.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\3\рис\ris_2\ris_2_server\ris_2_server.cpp(3): note: использование предварительно скомпилированного заголовка
+d:\3\рис\ris_2\ris_2_server\ris_2_server.cpp(2): warning C4603: _WINSOCK_DEPRECATED_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\3\рис\ris_2\ris_2_server\ris_2_server.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\3\рис\ris_2\ris_2_server\ris_2_server.cpp(3): note: использование предварительно скомпилированного заголовка
+  RIS_2_server.vcxproj -> D:\3\РИС\RIS_2\Debug\RIS_2_server.exe
